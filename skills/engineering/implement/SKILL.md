@@ -10,6 +10,6 @@ Use /tdd where possible, at pre-agreed seams.
 
 Run typechecking regularly, single test files regularly, and the full test suite once at the end.
 
-Once done, use /mattpocock-skills:code-review (or /code-review) to review the work.
+Once done, review the work with this skill set's own code-review skill: /mattpocock-skills:code-review when these skills are installed as the Claude Code plugin, /code-review otherwise. Do not use Claude Code's built-in /code-review — that is a different review.
 
 Commit your work to the current branch.
